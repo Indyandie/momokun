@@ -1,1 +1,3 @@
-alert('モモーくん')
+exports.printMsg = function() {
+   alert('モモーくん')
+}
