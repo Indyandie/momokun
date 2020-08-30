@@ -1,0 +1,27 @@
+{
+  "name": "momokun",
+  "version": "1.0.0",
+  "description": "Creating a new NPM package.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Indyandie/momokun.git"
+  },
+  "keywords": [
+    "test",
+    "NPM",
+    "noob"
+  ],
+  "author": "Andy Contreras",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Indyandie/momokun/issues"
+  },
+  "homepage": "https://github.com/Indyandie/momokun#readme"
+}
